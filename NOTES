@@ -1,0 +1,2 @@
+to acess environment variables in vite react :.env file -> store it with prefix VITE_ and to acess it use import.meta.env.name
+to access environment variables in react-app:.env file -> store it with prefix REACT_APP_ and to acess it process.env.name
